@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="430" viewBox="0 0 1180 430" role="img">
+<rect x="0" y="0" width="1180" height="430" fill="#ffffff"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#111827}.title{font-size:18px;font-weight:700}.subtitle{font-size:12px;fill:#6b7280}.axis{stroke:#4b5563;stroke-width:1}.grid{stroke:#e5e7eb;stroke-width:1}.label{font-size:12px}.small{font-size:11px}.value{font-size:11px;font-weight:700}.panel{font-size:14px;font-weight:700}</style>
+<text x="30.0" y="34.0" class="title" text-anchor="start">V1 Sequential Binary Experiment Validation MCC</text>
+<text x="30.0" y="54.0" class="subtitle" text-anchor="start">Completed 20-epoch runs; MCC selected on validation threshold sweep.</text>
+<text x="30.0" y="85.0" class="panel" text-anchor="start">Clustering</text>
+<line x1="148.0" y1="109.0" x2="148.0" y2="336.0" class="grid" />
+<text x="148.0" y="352.0" class="small" text-anchor="middle">0.00</text>
+<line x1="253.0" y1="109.0" x2="253.0" y2="336.0" class="grid" />
+<text x="253.0" y="352.0" class="small" text-anchor="middle">0.29</text>
+<line x1="358.0" y1="109.0" x2="358.0" y2="336.0" class="grid" />
+<text x="358.0" y="352.0" class="small" text-anchor="middle">0.58</text>
+<line x1="148.0" y1="336.0" x2="358.0" y2="336.0" class="axis" />
+<text x="140.0" y="156.4" class="small" text-anchor="end">no clustering</text>
+<rect x="148.0" y="109.0" width="70.4" height="69.7" fill="#2563eb" stroke="#1f2937" stroke-width="0.5"/>
+<text x="224.4" y="156.4" class="value" text-anchor="start">0.195</text>
+<text x="140.0" y="235.0" class="small" text-anchor="end">8mer clustering</text>
+<rect x="148.0" y="187.7" width="64.5" height="69.7" fill="#93c5fd" stroke="#1f2937" stroke-width="0.5"/>
+<text x="218.5" y="235.0" class="value" text-anchor="start">0.178</text>
+<text x="140.0" y="313.7" class="small" text-anchor="end">p1 clustering</text>
+<rect x="148.0" y="266.3" width="56.0" height="69.7" fill="#93c5fd" stroke="#1f2937" stroke-width="0.5"/>
+<text x="210.0" y="313.7" class="value" text-anchor="start">0.155</text>
+<text x="410.0" y="85.0" class="panel" text-anchor="start">Negative sampling</text>
+<line x1="528.0" y1="109.0" x2="528.0" y2="336.0" class="grid" />
+<text x="528.0" y="352.0" class="small" text-anchor="middle">0.00</text>
+<line x1="633.0" y1="109.0" x2="633.0" y2="336.0" class="grid" />
+<text x="633.0" y="352.0" class="small" text-anchor="middle">0.29</text>
+<line x1="738.0" y1="109.0" x2="738.0" y2="336.0" class="grid" />
+<text x="738.0" y="352.0" class="small" text-anchor="middle">0.58</text>
+<line x1="528.0" y1="336.0" x2="738.0" y2="336.0" class="axis" />
+<text x="520.0" y="143.0" class="small" text-anchor="end">cross family</text>
+<rect x="528.0" y="109.0" width="83.2" height="50.0" fill="#2563eb" stroke="#1f2937" stroke-width="0.5"/>
+<text x="617.2" y="143.0" class="value" text-anchor="start">0.230</text>
+<text x="520.0" y="202.0" class="small" text-anchor="end">scramble</text>
+<rect x="528.0" y="168.0" width="70.4" height="50.0" fill="#93c5fd" stroke="#1f2937" stroke-width="0.5"/>
+<text x="604.4" y="202.0" class="value" text-anchor="start">0.195</text>
+<text x="520.0" y="261.0" class="small" text-anchor="end">random site</text>
+<rect x="528.0" y="227.0" width="69.1" height="50.0" fill="#93c5fd" stroke="#1f2937" stroke-width="0.5"/>
+<text x="603.1" y="261.0" class="value" text-anchor="start">0.191</text>
+<text x="520.0" y="320.0" class="small" text-anchor="end">mixed</text>
+<rect x="528.0" y="286.0" width="66.7" height="50.0" fill="#93c5fd" stroke="#1f2937" stroke-width="0.5"/>
+<text x="600.7" y="320.0" class="value" text-anchor="start">0.184</text>
+<text x="790.0" y="85.0" class="panel" text-anchor="start">Architecture</text>
+<line x1="908.0" y1="109.0" x2="908.0" y2="336.0" class="grid" />
+<text x="908.0" y="352.0" class="small" text-anchor="middle">0.00</text>
+<line x1="1013.0" y1="109.0" x2="1013.0" y2="336.0" class="grid" />
+<text x="1013.0" y="352.0" class="small" text-anchor="middle">0.29</text>
+<line x1="1118.0" y1="109.0" x2="1118.0" y2="336.0" class="grid" />
+<text x="1118.0" y="352.0" class="small" text-anchor="middle">0.58</text>
+<line x1="908.0" y1="336.0" x2="1118.0" y2="336.0" class="axis" />
+<text x="900.0" y="183.1" class="small" text-anchor="end">frozen esm</text>
+<rect x="908.0" y="109.0" width="83.2" height="109.0" fill="#93c5fd" stroke="#1f2937" stroke-width="0.5"/>
+<text x="997.2" y="183.1" class="value" text-anchor="start">0.230</text>
+<text x="900.0" y="301.1" class="small" text-anchor="end">unfrozen esm</text>
+<rect x="908.0" y="227.0" width="193.0" height="109.0" fill="#2563eb" stroke="#1f2937" stroke-width="0.5"/>
+<text x="1107.0" y="301.1" class="value" text-anchor="start">0.533</text>
+<text x="30.0" y="405.0" class="subtitle" text-anchor="start">Source: reports/sequential_binary_clean_results_2026-07-13.csv. One-epoch smoke-test rows excluded.</text>
+</svg>
