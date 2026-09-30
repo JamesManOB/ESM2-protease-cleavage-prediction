@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Project data and generated experiment artifacts
+/processed_data/
+/raw_data/
+/outputs/
+/checkpoints/
+/training_8mer_clustering.csv
+*.pt
+*.pth
+*.ckpt
+*.safetensors

@@ -1,0 +1,10 @@
+# Python >=3.10. Direct dependencies; not a lock of the original GPU environment.
+# Install a platform/CUDA-appropriate PyTorch build if needed before this file.
+torch
+transformers
+numpy
+pandas
+scikit-learn
+tqdm
+jupyterlab
+nbformat
